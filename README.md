@@ -64,7 +64,7 @@ cd ia-memoire-assist
 python -m venv venv
 source ./venv/bin/activate
 pip install -r requirements.txt
-touch .env  # Ajouter OPENAI_API_KEY dedans et retirer le .example
+mv .env.example .env # remplacez les astérisques par votre clé API
 python main.py
 ```
 
