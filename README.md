@@ -87,7 +87,11 @@ Ce projet est à la fois :
 
 ## 📄 Licence
 
-MIT – Tu peux t'en servir, le modifier, le forker, tant que tu cites l'auteur et contribues à ton tour.
+AGPL-3.0 - GNU Affero General Public License v3.0
+
+Ce projet est sous licence AGPL-3.0, une licence libre copyleft qui garantit que toutes les modifications du code, même utilisées dans un service réseau, doivent être partagées avec la communauté. Elle protège la liberté des utilisateurs de copier, distribuer et modifier le logiciel.
+
+Pour plus de détails, consultez le fichier LICENSE ou visitez : https://www.gnu.org/licenses/agpl-3.0.html
 
 ## 🙌 Contribuer
 
@@ -102,6 +106,5 @@ Si ce sujet t'inspire, tu peux :
 
 - Human-Inspired Perspectives: A Survey on AI Long-term Memory
 - arXiv:2411.00489v2
-- Lien à ajouter une fois le papier attaché 📎
 
 
